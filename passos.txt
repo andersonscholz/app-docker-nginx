@@ -1,0 +1,17 @@
+Passo a passo para execução do projeto:
+
+1. Clone o repositório:
+
+git clone https://github.com/andersonscholz/app-docker-nginx.git
+
+----------------------------------------------------------------------------------------
+
+2. Navegue até o diretório do projeto:
+
+cd app-docker-nginx
+
+----------------------------------------------------------------------------------------
+
+3. Execute o seguinte comando para construir e iniciar os contêineres em segundo plano:
+
+docker-compose up -d --build
